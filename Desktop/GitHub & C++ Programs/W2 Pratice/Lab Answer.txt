@@ -1,0 +1,25 @@
+Challenge 1 : You don't need to specify to index 0 (Complexity = O(1))
+Challenge 2 : Traversing the list is required however you do not need to specify the end (Complexity = O(n))
+Challenge 3 : The beginning pointer and the middle pointer needs to be changed. Unlike shifting arrays, it automatically resizes the list to prevent overflow
+Challenge 4 : The next value will have the head pointer and the deleted node's memory will be cleared
+Challenge 5 : We go all the way to a point that is 2 elements away from the nullptr
+Challenge 6 : The beginning pointer changes. It will cause the computer to slow down due to the lack of free memory
+Challenge 7 : You don't need to know the size of the list
+Challenge 8 : Values are easier because it works the same as array, save the start value to a temp variable, move the other value to the start value and use the temp value on the end value
+Challenge 9 : It's similar due to it needing to search every memory location for the value. Arrays are better for random search
+Challenge 10: Link lists would be better for Inserting and Deleting
+
+Reflection Prompts
+1. Displaying every element
+2. Random search
+3. It's to prevent the computer from consuming too much memory
+4. The head pointer represents the starting position
+5. There won't be a starting position, making it hard to list properly
+
+Scenario Analysis
+1. Linked List
+2. Linked List
+3. Linked List
+4. Array
+5. Linked List
+6. Array
